@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... no one
 - 📫 How to reach me ... gmail
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... The yo-yo was originally a weapon used in the Philippine jungle.
 
 <!---
